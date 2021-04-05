@@ -10,3 +10,7 @@ __4월2일__
     - isNan (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/isNaN)
     - ASCII&유니코드 (https://whatisthenext.tistory.com/103)
     - 정규식 (https://soooprmx.com/archives/7718)
+    
+__4월6일__
+* [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
+* [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
