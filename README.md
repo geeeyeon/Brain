@@ -14,3 +14,7 @@ __4월2일__
 __4월6일__
 * [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576)
 * [K번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)
+
+__4월19일__
+* [모의 고사](https://programmers.co.kr/learn/courses/30/lessons/42840)
+* [소수 찾기](https://programmers.co.kr/learn/courses/30/lessons/42839)
