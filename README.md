@@ -29,3 +29,8 @@
 - [위클리챌린지2주차](https://programmers.co.kr/learn/courses/30/lessons/83201)
 - [위클리챌린지3주차](https://programmers.co.kr/learn/courses/30/lessons/84021)
 - [위클리챌린지4주차](https://programmers.co.kr/learn/courses/30/lessons/84325)
+
+**8월31일**
+
+- [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
+- [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
