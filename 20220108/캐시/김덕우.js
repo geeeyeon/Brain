@@ -44,8 +44,6 @@ function solution(cacheSize, cities) {
                 cache = cache.slice(0, cacheSize);
             }
         }
-
-        console.log(cache);
     }
     
     return answer;
