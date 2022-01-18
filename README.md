@@ -34,3 +34,7 @@
 
 - [크레인 인형뽑기 게임](https://programmers.co.kr/learn/courses/30/lessons/64061)
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
+
+**1월 8일**
+- [캐시] (https://programmers.co.kr/learn/courses/30/lessons/17680)
+- [신고결과받기] (https://programmers.co.kr/learn/courses/30/lessons/92334)
