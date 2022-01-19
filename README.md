@@ -39,3 +39,4 @@
 - [캐시] (https://programmers.co.kr/learn/courses/30/lessons/17680)
   - LRU 알고리즘 (https://j2wooooo.tistory.com/121)
 - [신고결과받기] (https://programmers.co.kr/learn/courses/30/lessons/92334)
+  - javascript Set (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set)
