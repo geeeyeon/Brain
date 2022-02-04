@@ -44,3 +44,6 @@
 **1월 24일**
 - [카펫] (https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [타겟 넘버] (https://programmers.co.kr/learn/courses/30/lessons/43165)
+
+**2월 4일**
+- [문자열압축] (https://programmers.co.kr/learn/courses/30/lessons/60057)
