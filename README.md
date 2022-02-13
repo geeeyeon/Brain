@@ -36,15 +36,22 @@
 - [키패드 누르기](https://programmers.co.kr/learn/courses/30/lessons/67256)
 
 **1월 8일**
+
 - [캐시] (https://programmers.co.kr/learn/courses/30/lessons/17680)
   - LRU 알고리즘 (https://j2wooooo.tistory.com/121)
 - [신고결과받기] (https://programmers.co.kr/learn/courses/30/lessons/92334)
   - javascript Set (https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Set)
 
 **1월 24일**
+
 - [카펫] (https://programmers.co.kr/learn/courses/30/lessons/42842)
 - [타겟 넘버] (https://programmers.co.kr/learn/courses/30/lessons/43165)
 
 **2월 4일**
+
 - [문자열압축] (https://programmers.co.kr/learn/courses/30/lessons/60057)
 - [오픈채팅방] (https://programmers.co.kr/learn/courses/30/lessons/42888)
+
+**2월 13일**
+
+- [배달] (https://programmers.co.kr/learn/courses/30/lessons/12978)
